@@ -15,8 +15,8 @@ highlighter: rouge
 markdown: kramdown
 comments :
   gitalk :
-    clientID : 
-    clientSecret : 
+    clientID : efc15a7130a4a8dacd7f
+    clientSecret : 0606e3c5973acf33f8779ea60fb507b2ce48b42d 
     repo : 
     owner : 
     admin : 
